@@ -1,0 +1,35 @@
+@startuml Matricula
+left to right direction
+actor Funcionario as F
+actor Aluno as AL
+
+package Saude_SA{
+  usecase "Solicitar cursos" as UC1
+  usecase "Solicitar Turmas" as UC2
+  usecase "Realizar matricula" as UC3
+  usecase "Registrar aluno" as UC4
+'   usecase "Enviar solicitação" as UC5
+}
+
+AL -- UC1
+F -- UC1
+
+AL -- UC2
+AL -- UC3
+F --UC4
+UC3 .> UC4 : include
+
+
+
+' Funcionario -- UC1
+' UC2 .> UC1 : include
+' Funcionario -- UC2
+' Funcionario <- UC4
+' UC3 .> UC2 : include
+' RH -- UC3
+' UC4 -- RH
+' UC4 .> UC3: include
+' UC5 <- CH
+' UC5 -> SA
+
+@enduml

@@ -1,0 +1,6 @@
+@startuml teste
+:Main Admin: as Admin
+(Use the application) as (Use)
+User <|-- Admin
+(Start) <|-- (Use)
+@enduml

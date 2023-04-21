@@ -1,0 +1,31 @@
+@startuml Saude_SA
+left to right direction
+actor Funcionario_comum as F
+actor RH as RH
+actor Supervisor_aut as SA
+actor Chefia as CH
+
+package Saude_SA{
+  usecase "Solicitar ferias" as UC1
+  usecase "Preencher formulario" as UC2
+  usecase "Analizar Formulario" as UC3
+  usecase "Resposta RH" as UC4
+  usecase "Enviar solicitação" as UC5
+}
+
+Funcionario <|-- F
+Funcionario <|-- SA
+Funcionario <|-- CH
+
+Funcionario -- UC1
+UC2 .> UC1 : include
+Funcionario -- UC2
+Funcionario <- UC4
+UC3 .> UC2 : include
+RH -- UC3
+UC4 -- RH
+UC4 .> UC3: include
+UC5 <- CH
+UC5 -> SA
+
+@enduml

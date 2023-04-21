@@ -1,0 +1,6 @@
+projejão filtra colunas(pi atributo1,atributo2(tabela))
+seleção filtra linhas(qinvetido atributo="m"(nome da tabela))
+(pi atributo1,atributo2(qinvertido atributo="M"(nome da tabel))) pega linhs e colunas
+pensar da tabela mais a direita para a esqeurda
+quando tiver mais colunas fazer primeiro a projeção, quando tiver mais linhas fazer primeiro a seleção da direita mais perto da tabela para a esquerda.
+
