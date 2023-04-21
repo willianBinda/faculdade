@@ -1,0 +1,113 @@
+hexadecimal
+
+1-2-3-4-5-6-7-8-9-A -B -C -D -E -F
+			   10-11-12-13-14-15
+
+base 16
+
+
+1f 
+f = 15x16^0 = 15 ->1
+
+1 = 1x16^1 = 16 ->16
+
+ = 31
+-----------------
+ABC
+c = 12x16^0 = 12 ->1
+b = 11x16^1 = 176 ->16
+a = 10x16^2 = 2560 ->256
+
+ = 2748
+--------------
+OCTAL
+
+2322
+
+2 = 2x8^0 = 2 ->1
+2 = 2x8^1 = 16 ->8
+3 = 3x8^2 = 192 ->64
+2 = 2x8^3 = 1024 ->512
+
+= 
+1234
+---------
+123 - 10 - 1024 - 50048
+
+123 = 
+
+3 = 3x8^0 = 3->1
+2 = 2x8^1 = 16->8
+1 = 1x8^2 = 64 ->64
+=
+83
+
+10 = 
+
+0 = 0x8^0 = 0 ->1
+1 = 1x8^1 = 8->8
+=
+8
+
+1024 = 
+
+--------------------------
+BINARIO  
+
+
+1011
+
+1x2^0 = 1->1
+1x2^1 = 2->2
+
+
+
+
+---------------------------
+
+
+
+
+
+
+
+
+
+3,75 = 
+-------------------------------------------------------------------------------
+sinal = positivo = 0 negativo = 1
+-------------------------------------------------------------------------------
+expoente =
+pega o 3 e converte ele pra binario normal  = 11 e os numeros apos a virgula pega o 0,75 e 
+multiplica por 2 ate chegar em 1 ou 0 ou seja 0,75x2=1,5 - 0,5x2=1 entao depois da virgula em binario fica 11 
+logo 3,75 = 11,11
+
+olhar tabela https://www.google.com/search?q=nota%C3%A7%C3%A3o+de+excesso+padrao+bit+3&sxsrf=ALiCzsZLB0qCyZ6gxYXpbHWyP598t4j3eA:1663713944101&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjWlZW1uaT6AhVSNrkGHTP_BuAQ_AUoAnoECAEQBA&biw=1366&bih=617&dpr=1#imgrc=oESqwlMxyW-R2M
+11,11 quantidade de digitos antes da virgula sao 2 entao na tabela = 110
+
+---------------------------------------------------------------------------------
+mantiça = 11,11 a virgula some e a mantica fica 1111
+
+--------------------------------------------------------------------------------
+3,75 = 0 110 1111
+junta o sinal com o numero da tabela e a mantiça
+---------------
+conversão normal de decimal para binario é preciso pegar o resto da divisao e ir ate o numero em que nao 
+se pode dividir mais e pegar os numero de baixo para cima ou de traz para frente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

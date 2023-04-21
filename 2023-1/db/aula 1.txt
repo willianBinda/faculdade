@@ -1,0 +1,29 @@
+-modelagem conceitual (abordagem "ER" entidade relacionamento)
+uma entidade é uma tabela que pode ou nao se relacionar com outra tabela
+uma descricao dos tipos de informação que estao armazenados
+abstrair 
+descrever estruturas de uma banco de dados
+A técnica de modelagem conceitual mais difundida é a abordagem enti-
+dade-relacionamento (ER). Nesta técnica, um modelo conceitual é usual-
+mente representado através de um diagrama, chamado diagrama entida-
+de-relacionamento (DER). A Figura 1.3 apresenta um DER parcial para o
+
+problema da fábrica.
+
+cada linha é um registro e cada coluna é um atributo
+
+
+
+-modelo(projeto) logico
+
+-projeto fisico (sgbd)
+
+rp = sistema que abranje todas as partes de um sistema ()
+
+irp= 
+
+
+quais as tres etapas para o projeto de um db explique cada um deles
+R: modelagem conceitual, modelo logico, projeto fisico. O modelo conceitual é desenhado como um diagrama mostrando como as entidades irão se relacionar.
+Modelo logico é usado no SGBD usando tabelas com linhas e colunas linhas são os dados e colunas os atributos formalização do conceitual
+MOdelo fisico relaciona ao desempenho, utilizando os outros dois no SGBD 

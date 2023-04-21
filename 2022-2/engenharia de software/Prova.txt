@@ -1,0 +1,3 @@
+casos de uso 
+modelo de dominio
+modelo conseitual

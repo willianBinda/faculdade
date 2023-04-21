@@ -1,0 +1,107 @@
+28/03 prova conteudo tabela verdade
+25/03 prova todo conteudo
+
+biblioteca person e minha biblioteca
+algebra buleana 0-1
+
+
+^ = e 
+flecha = entao/que
+
+
+operadores relacionais 
+
+== 
+>
+<
+>=
+<=
+continua 
+~ = nao/ negativo
+^ = (e) conjuncao
+chapeu invertido = (ou) disjuncao
+divisao exclusiva  = chapeu ivertido com traco embaixo
+flecha para a direita = se/entao condicional
+flecha para os dois lados = se e somente se 
+bicondicional
+
+
+
+
+    TABELA VERDADE
+
+
+1 = VERDADEIRO
+0 = FALSO
+EX = P / ~P
+     1 / 0
+     O / 1
+
+
+1 = CONJUNTO UNIVERSAL LOGO
+0 = GRUPO SEPARADO (EXCLUIDO)
+1 GRUPO DE PESSOAS DO RASIL
+0 cariocas
+ 
+
+
+p / q / r    2 na 3 divide metade para verdadeiro e metade para falso e depois vai dividindo 
+v / v / f         ex = comeca com 4 caracteres e a primeira coluna vai ter 2 na 4 = 16 colunas logo 8 v e 8 f e depois vai dividindo sucessivamente 
+v / v / v
+v / f
+v / f
+f / v
+f / v
+f / f
+f / f
+
+
+
+exercicios da pagina 43 e 44
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

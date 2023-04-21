@@ -1,0 +1,14 @@
+conceito conceitual = {
+    conceitos sao objetos reais ou abstratos
+}
+
+classe de analise = {
+    objetos candidatos (implementação)
+}
+
+modelo de dominio = {
+    coisa, objetos,conceitos
+    usar setas bidirecionais e unidirecional para melhor entendimento.
+    colocar escritas para referenciar a ação e colocar a qtde 1 para 2, 0 para n , 1 para 1.
+    
+}

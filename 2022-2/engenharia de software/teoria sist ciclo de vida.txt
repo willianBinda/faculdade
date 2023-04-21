@@ -1,0 +1,69 @@
+TEORIA GERAL DOS SISTEMAS 
+
+
+	-ciclo de vida
+--------------------------------------------------------------------------------
+CONCEPCAO 		= mais manutencao, criacao,o mais importante, muito cuidado
+--------------------------------------------------------------------------------
+DESENVOLVIMENTO 	= um pouco menos de manutencao
+
+- saida->entrada=MUITA ENERGIA->processamanto->saida = RESULTADO BAIXO->...
+--------------------------------------------------------------------------------
+ENTROPIA  		= mais manutencao, mais cuidado,
+--------------------------------------------------------------------------------
+ENTROPIA TOTAL 	= conclusao
+--------------------------------------------------------------------------------
+https://www.google.com/search?q=teoria+geral+dos+sistemas+ciclo+de+vida&sxsrf=ALiCzsZl6vuSHrariWiN6APKPMSBsFAd4g:1659998556941&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4ocHCqLj5AhWsGrkGHRfXBBAQ_AUoAXoECAEQAw&biw=1366&bih=617&dpr=1
+--------------------------------------------------------------------------------
+
+
+extraído do texto informações
+
+modelo de caso de uso{
+
+	-texto
+	-diagrama(uml){
+		-ator{
+			-cliente
+		}
+		-funções de casos de uso{
+			-fornecedor
+			-requisitar senha
+			-exibir opções
+			-validar senha
+			-inserir cartão
+			-realizar saque
+		}
+	}
+
+}
+
+
+19/09/2022
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

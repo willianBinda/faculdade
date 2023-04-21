@@ -1,0 +1,8 @@
+https://monicatissiani.wordpress.com/2022/08/17/exercicios-algoritmos-ii-20222/
+
+-algoritimos é  a base para a programação
+
+	-top down
+	-programacao estruturada
+--------------------------------------------
+classes botton up

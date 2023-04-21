@@ -1,0 +1,8 @@
+sql = structured query language linguagem padrao de operações em banco
+
+sgbd = apliacção para gerenciar coleções de banco de dados nao é um visualizador como studio3T
+
+diferenças entre noSQL e SQL = no grando quantidade de dados arquivos, ...
+SQL = usa algebra relacional tabelas, linhas e colunas .
+
+
